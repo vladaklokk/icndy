@@ -1,0 +1,16 @@
+.instagram {
+    margin-top: 200px; 
+    background-image: url(../img/bg.png);    
+    height: 760px;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.instagram .stusy-p {
+    padding-top: 300px;
+}
+
+.instagram .shop-now:hover {
+    color: #fff;
+}
